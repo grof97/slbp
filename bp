@@ -1,0 +1,11 @@
+PATH="/usr/local/bin:/usr/bin:/bin:/usr/games:/usr/lib64/qt5/bin:/sbin:/usr/sbin:/usr/local/sbin:$HOME/rtl"
+
+alias chdir="cd"
+alias ll="ls --color -a -l -h"
+alias ls="ls --color"
+alias sbp="source ~/bp"
+alias cl="clear"
+alias xt="exit"
+alias hc="cat /dev/null > ~/.bash_history && history -c"
+alias hl="cat /dev/null > ~/.bash_history && history -c && clear"
+alias hx="cat /dev/null > ~/.bash_history && history -c && clear && exit"
