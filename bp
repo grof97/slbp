@@ -1,4 +1,4 @@
-PATH="/usr/local/bin:/usr/bin:/bin:/usr/games:/usr/lib64/qt5/bin:/sbin:/usr/sbin:/usr/local/sbin:/home/rof/rtl"
+PATH="/usr/local/bin:/usr/bin:/bin:/usr/games:/usr/lib64/qt5/bin:/sbin:/usr/sbin:/usr/local/sbin:/usr/rtl"
 
 alias chdir="cd"
 alias ll="ls --color -a -l -h"
